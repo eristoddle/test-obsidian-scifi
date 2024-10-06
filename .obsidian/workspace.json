@@ -1,0 +1,165 @@
+{
+  "main": {
+    "id": "bebee7a3ce6b5ed8",
+    "type": "split",
+    "children": [
+      {
+        "id": "768b94f56a08d558",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5a358f412896f7d7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "16ac9d8114f93df2",
+    "type": "split",
+    "children": [
+      {
+        "id": "abe49d5e86eae80a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3d979aafa695c64e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "be53567d3668f798",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "5c2ceae343411711",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "9f6b4fd7ef1b6206",
+    "type": "split",
+    "children": [
+      {
+        "id": "910816432c155e41",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3e386065065d708b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4e44ba214fd11b0e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cc1e52ec99a8edbf",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b0314e4eb5179b1a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md"
+              }
+            }
+          },
+          {
+            "id": "a7a82e74b36011da",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "3d979aafa695c64e",
+  "lastOpenFiles": [
+    "Clippings/The Science Fiction and Fantasy Research Database.md",
+    "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+    "Clippings/Mobile Links.md"
+  ]
+}

@@ -1,0 +1,1 @@
+Clipped from [Must-visit sci-fi websites for writers | Now Novel](https://www.nownovel.com/blog/sci-fi-websites-for-writers/) at 2022-04-16.

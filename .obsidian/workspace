@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "4b16ec4057c5abb0",
+    "type": "split",
+    "children": [
+      {
+        "id": "44fd34b2fd736ea2",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Clippings/The Science Fiction and Fantasy Research Database.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "25cf8bf8e864d5fd",
+    "type": "split",
+    "children": [
+      {
+        "id": "83eb20f1b1e3968d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6fffb8e2c033046a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b5b2930aad74de97",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "00c486fd7467839e",
+    "type": "split",
+    "children": [
+      {
+        "id": "f61de07a20b1d3f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7b8166e3e9464b90",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Clippings/The Science Fiction and Fantasy Research Database.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "684457cbeaf50ae9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Clippings/The Science Fiction and Fantasy Research Database.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1700813a0c4e58eb",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c9d121c010f1037c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Clippings/The Science Fiction and Fantasy Research Database.md"
+              }
+            }
+          },
+          {
+            "id": "7eaa8c022e4b3bd4",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "f186807892471270",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "93e3f491f764d324",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_nodes",
+              "state": {}
+            }
+          },
+          {
+            "id": "ad8bf8cefecfb20f",
+            "type": "leaf",
+            "state": {
+              "type": "juggl_style",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "44fd34b2fd736ea2",
+  "lastOpenFiles": [
+    "Clippings/The Science Fiction and Fantasy Research Database.md",
+    "Clippings/Mobile Links.md",
+    "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+    "Clippings/Web Links.md",
+    "Clippings.md",
+    "Technology/Space Travel.md",
+    "Web Links.md",
+    "Technology/Untitled.md",
+    "Space Station Janitor.md",
+    "Sci-fi Reference.md"
+  ]
+}
