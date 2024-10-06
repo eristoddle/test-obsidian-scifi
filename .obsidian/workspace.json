@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+                "file": "Knowledge Base/Space Travel.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+                "file": "Knowledge Base/Space Travel.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+                "file": "Knowledge Base/Space Travel.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Clippings/Must-visit sci-fi websites for writers | Now Novel.md"
+                "file": "Knowledge Base/Space Travel.md"
               }
             }
           },
@@ -156,10 +156,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d979aafa695c64e",
+  "active": "5a358f412896f7d7",
   "lastOpenFiles": [
-    "Clippings/The Science Fiction and Fantasy Research Database.md",
     "Clippings/Must-visit sci-fi websites for writers | Now Novel.md",
+    "Clippings/The Science Fiction and Fantasy Research Database.md",
     "Clippings/Mobile Links.md"
   ]
 }
